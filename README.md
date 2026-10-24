@@ -1,113 +1,90 @@
-# Hi there, I'm Melek Bejaoui 👋
+### Hi there, I'm Melek Bejaoui 👋
 
-### 💻 Embedded Systems | IoT | C/C++
+<div align="center">
 
-I'm an Information and Communication Technology (ICT) student at the Faculty of Sciences of Bizerte, Tunisia, passionate about embedded systems, electronics, IoT, and software development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melek_Bejaoui-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melek-bejaoui-80a829400/)
+[![GitHub](https://img.shields.io/badge/GitHub-MelekBejaoui-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MelekBejaoui)
 
-I enjoy building practical projects that connect hardware and software, from programming microcontrollers to developing connected applications and dashboards.
+</div>
 
-- 🔌 **Main interests:** Embedded Systems, IoT, and Automation
-- 💻 **Programming:** C, C++, Java
-- 🛠️ **Microcontrollers:** ESP32, ESP32-S3, Arduino, STM32
-- 🌐 **IoT:** Node-RED, MQTT, Firebase, Adafruit IO
-- ⚙️ **Tools:** VS Code, PlatformIO, Arduino IDE, Git, GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=22&center=true&lines=I'm+an+Embedded+Systems+Student;I'm+an+IoT+%26+Electronics+Enthusiast;Always+Learning+and+Building">
+</p>
 
----
+<br>
 
-## 🧰 Tech Stack
+## 🧑‍💻 About Me
 
-### Programming Languages
+* 🖥️ I am an **ICT Student** passionate about **Embedded Systems** and **IoT** based in Bizerte, Tunisia 📍
+* 🛠️ I enjoy building projects that bridge **hardware and software** — from microcontrollers to connected dashboards.
+* 💡 I focus on writing **clean**, **reliable**, and **well-structured embedded code**, while exploring IoT architectures and protocols.
+* 🔌 Passionate about **ESP32**, **Arduino**, **STM32**, **MQTT**, and **sensor interfacing**.
+* 💼 You can reach me at [LinkedIn](https://www.linkedin.com/in/melek-bejaoui-80a829400/)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<br>
 
-### Embedded Systems & Electronics
+## 🔧 Main Technologies & Tools
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/></code></td>
+    </tr>
+    <tr>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code></td>
+      <td align="center"><code><img width="50" src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="ESP32" title="ESP32" onerror="this.src='https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif'"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase"/></code></td>
+      <td align="center"><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code></td>
+    </tr>
+  </table>
+</div>
 
-- Microcontroller programming and sensor interfacing
-- I2C communication, LCD/OLED displays, and keypads
-- Relays, servos, buzzers, LEDs, and electronic components
+<br>
 
-### IoT & Communication
-
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-- MQTT messaging and Node-RED dashboards
-- Firebase Realtime Database and Adafruit IO
-- HTTP requests, JSON, and sensor data visualization
-
-### Development Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-- Arduino IDE, PlatformIO, and VS Code
-- Git, GitHub, Wokwi, and Docker for IoT experimentation
-
----
-
-## 🚀 Projects & Practical Experience
+## 🚀 Featured Projects
 
 ### 🌡️ ESP32 Environmental Monitoring
-
-Worked with an ESP32-S3 and BME280 sensor to read temperature, pressure, and humidity using I2C communication.
-
-**Technologies:** ESP32-S3 · C++ · Arduino · BME280 · I2C
+> Reading temperature, pressure, and humidity with an **ESP32-S3** and **BME280** sensor via **I2C** communication.  
+> `ESP32-S3` · `C++` · `Arduino` · `BME280` · `I2C`
 
 ### 📊 IoT Monitoring Dashboard with Node-RED
+> Built a real-time dashboard to receive and visualize sensor data from a microcontroller using **HTTP** and **Adafruit IO**.  
+> `ESP32` · `Node-RED` · `HTTP` · `JSON` · `Adafruit IO`
 
-Built a working dashboard workflow to receive and visualize temperature and humidity data from a microcontroller.
+### 🏠 Mini Smart Home System *(In Development)*
+> A prototype combining microcontrollers, sensors, keypad, LCD, and actuators for home automation.  
+> `ESP32-S3` · `Arduino Uno` · `C++` · `LCD` · `Keypad` · `Servos`
 
-**Technologies:** ESP32 · Node-RED · HTTP · JSON · Adafruit IO
+### 🔐 RFID Access Control *(Experimentation)*
+> Explored RFID-based access control using an **ESP32**, **MFRC522** reader, LEDs, and **MQTT** communication.  
+> `ESP32` · `MFRC522` · `C++` · `MQTT`
 
-### 🏠 Mini Smart Home System — In Development
+<br>
 
-Developing a prototype combining microcontrollers, sensors, a keypad, an LCD, and actuators for home automation.
-
-**Technologies:** ESP32-S3 · Arduino Uno · C++ · LCD · Keypad · Sensors · Servos
-
-### 🔐 RFID Access Control — Experimentation
-
-Explored RFID-based access control using an ESP32, MFRC522 reader, status LEDs, and MQTT communication.
-
-**Technologies:** ESP32 · MFRC522 · C++ · MQTT
-
----
-
-## 🎓 Education & Experience
+## 🎓 Education
 
 - 🎓 **Field of study:** Information and Communication Technology (ICT)
 - 🏫 **Institution:** Faculty of Sciences of Bizerte, Tunisia
 - 🔧 **Practical experience:** Internship at Electronic Arts Bizerte
-- 📚 **Continuous learning:** Embedded programming, IoT, electronics, and software development
 
-## 📖 Currently Developing My Skills
+<br>
+
+## 📖 Currently Learning
 
 - Embedded C/C++ and microcontroller peripherals
 - Object-Oriented Programming and data structures
 - IoT architecture and connected applications
 - Hardware-software integration and debugging
 
----
+<br>
 
-## 🤝 Let's Connect
-
-I'm interested in embedded systems, IoT, robotics, automation, and practical engineering projects.
-
-- 💼 **LinkedIn:** [Melek Bejaoui](https://www.linkedin.com/in/melek-bejaoui-80a829400/)
-- 🐙 **GitHub:** [MelekBejaoui](https://github.com/MelekBejaoui)
-
----
-
-⭐ *Learning by building. Improving through experimentation. Engineering one project at a time.*
+<p align="center">
+  🔥 <em>Learning by building. Improving through experimentation.</em> — <strong>Bizerte, Tunisia 🇹🇳</strong>
+</p>
